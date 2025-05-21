@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmonitor/static/css/main.e6c13ad2.css",
+    "main.js": "/reactmonitor/static/js/main.d0d6fc69.js",
+    "static/js/453.6432168e.chunk.js": "/reactmonitor/static/js/453.6432168e.chunk.js",
+    "index.html": "/reactmonitor/index.html",
+    "main.e6c13ad2.css.map": "/reactmonitor/static/css/main.e6c13ad2.css.map",
+    "main.d0d6fc69.js.map": "/reactmonitor/static/js/main.d0d6fc69.js.map",
+    "453.6432168e.chunk.js.map": "/reactmonitor/static/js/453.6432168e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d0d6fc69.js"
+  ]
+}
